@@ -1,2 +1,1 @@
-# struts-internacionalización
 # struts-tiles
